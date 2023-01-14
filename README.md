@@ -1,4 +1,10 @@
 # Big Data Project
+Work produced by :
+- Gazzeh Mohamed
+- Zouari Rami
+
+
+
 This is a data collection and processing project from the open-meteo API. It consists mainly of a consumer and a producer that communicate through 2 Kafka brokers.
 link to the open-meteo API: <a href=https://open-meteo.com/>https://open-meteo.com/</a>
 
